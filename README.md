@@ -6,7 +6,7 @@
 
 - 隱私權政策
 - 版權聲明
-- 開發者聯絡入口
+- 開發者 Email 聯絡入口：`victoriacheng1122@gmail.com`
 - 繁體中文、簡體中文、English、日本語切換
 
 設計語氣延續 app 本身的奶油粉藍色系，並使用：
@@ -22,3 +22,5 @@
 - 日本語：`https://victoriac1122.github.io/perfect-pig-legal-center/?lang=ja&doc=privacy`
 
 同一網址可用 `doc=privacy` 或 `doc=copyright` 切換文件。
+
+公開頁面不提供 GitHub 個人頁或 issue tracker 入口；所有支援請求統一使用開發者 Email。
